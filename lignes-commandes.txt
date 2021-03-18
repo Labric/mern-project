@@ -1,0 +1,28 @@
+BACK ##############################################
+- validator,
+- nodemon,
+- multer, 
+- mongoose, 
+- jsonwebtoken,
+- express, 
+- dotenv, 
+- cors, 
+- cookie-parser, 
+- body-parser, 
+- bcrypt, 
+- axios, 
+
+FRONT #############################################
+- redux-thunk, 
+- redux-logger, 
+- redux-devtools-extension,
+- redux, 
+- react-redux,
+- react-router-dom, 
+- react-dom, 
+- react, 
+- node-sass, 
+- js-cookie, 
+- dotenv, 
+- axios, 
+ 
